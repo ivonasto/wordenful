@@ -19,6 +19,6 @@ Anyhow. Ozzy was having none of it. The dude just told me he has a pretend-to-be
 
 
 
-![InTheBar]("/assets/img/Ozzy.jpg"){: .mx-auto.d-block :}
+![InTheBar]("https://github.com/ivonasto/wordenful/blob/master/assets/img/Ozzy.jpg"){: .mx-auto.d-block :}
 
 
