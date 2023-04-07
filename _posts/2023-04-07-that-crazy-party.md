@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: Crazy Crazy Nights with Ozzy Osbourne
 subtitle: The revenge against the rude 
 tags: [prank, homemade potions, deep sleep]
