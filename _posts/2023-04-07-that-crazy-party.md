@@ -3,6 +3,7 @@ layout: post
 title: Crazy Crazy Nights with Ozzy Osbourne
 subtitle: The revenge against the rude 
 tags: [prank, homemade potions, deep sleep]
+thumbnail-img: /assets/img/Ozzy.jpg
 comments: true
 ---
 
@@ -19,6 +20,6 @@ Anyhow. Ozzy was having none of it. The dude just told me he has a pretend-to-be
 
 
 
-![InTheBar]("https://github.com/ivonasto/wordenful/blob/master/assets/img/Ozzy.jpg")
+
 
 
